@@ -1,1 +1,1 @@
-this us our readme file content for sjell basics
+this us our readme file content for shell basics
